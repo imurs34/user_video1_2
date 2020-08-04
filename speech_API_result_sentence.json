@@ -1,0 +1,3669 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 4.1,
+    "text": "Number 5 on our list are transistors in computers on the left hand side.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "Number"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "5"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "on"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "our"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "list"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "are"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.0,
+        "word": "transistors"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "in"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.2,
+        "word": "computers"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "on"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "left"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "hand"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "side."
+      }
+    ],
+    "length": 4.1
+  },
+  {
+    "id": 1,
+    "start": 4.1,
+    "end": 15.9,
+    "text": "I'm showing you a picture of the original transistor, which was first created in 1946 and resulted in the Nobel Prize for its creators computer chips.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "I'm"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.6,
+        "word": "showing"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "you"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.3,
+        "word": "a"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "picture"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "of"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "the"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "original"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.5,
+        "word": "transistor,"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "which"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.2,
+        "word": "was"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.1,
+        "word": "first"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.1,
+        "word": "created"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.5,
+        "word": "in"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.8,
+        "word": "1946"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "and"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "resulted"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.8,
+        "word": "in"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 8.9,
+        "word": "the"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.2,
+        "word": "Nobel"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.6,
+        "word": "Prize"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "for"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "its"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.5,
+        "word": "creators"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.5,
+        "word": "computer"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.8,
+        "word": "chips."
+      }
+    ],
+    "length": 11.8
+  },
+  {
+    "id": 2,
+    "start": 15.9,
+    "end": 21.5,
+    "text": "Like the one on the right hand side are constructed out of billions and billions of these transistors with your maiden.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "Like"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "the"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "one"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.5,
+        "word": "on"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "the"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "right"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "hand"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "side"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "are"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.6,
+        "word": "constructed"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.6,
+        "word": "out"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "of"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "billions"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "and"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "billions"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "of"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "these"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.7,
+        "word": "transistors"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "with"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "your"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "maiden."
+      }
+    ],
+    "length": 5.6
+  },
+  {
+    "id": 3,
+    "start": 21.5,
+    "end": 25.6,
+    "text": "It's obviously a different process than the bulky looking thing on the left.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "It's"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 1.0,
+        "word": "obviously"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "a"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "different"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "process"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "than"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "bulky"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "looking"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "thing"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "on"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "the"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.1,
+        "word": "left."
+      }
+    ],
+    "length": 4.100000000000001
+  },
+  {
+    "id": 4,
+    "start": 25.6,
+    "end": 33.5,
+    "text": "Each of those transistors uses Quantum tunneling as a switch and it's the Mainstay of all digital computers and all other smart devices.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.2,
+        "word": "Each"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "of"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "those"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.3,
+        "word": "transistors"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "uses"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.6,
+        "word": "tunneling"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "as"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "a"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "switch"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "and"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "it's"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "Mainstay"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.8,
+        "word": "of"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "all"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.4,
+        "word": "digital"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.0,
+        "word": "computers"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "and"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "all"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "other"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "smart"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "devices."
+      }
+    ],
+    "length": 7.899999999999999
+  },
+  {
+    "id": 5,
+    "start": 33.5,
+    "end": 52.3,
+    "text": "We're not going to cover in detail how these devices work here, but we're going to discuss something a little bit more bizarre about computation going to talk about quantum computers in one of the very last lectures at the end of module four number four on our list of top 10 quantum mechanics you encounter are lasers.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "We're"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "not"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "going"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.3,
+        "word": "to"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "cover"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "in"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "detail"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "how"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "these"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "devices"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.2,
+        "word": "work"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "here,"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "but"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "we're"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "going"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.8,
+        "word": "to"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "discuss"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "something"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.6,
+        "word": "a"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "little"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "bit"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "more"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "bizarre"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.9,
+        "word": "about"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.9,
+        "word": "computation"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "going"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "to"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "talk"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "about"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "quantum"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.7,
+        "word": "computers"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.3,
+        "word": "in"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.5,
+        "word": "one"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.6,
+        "word": "of"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "the"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "very"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.2,
+        "word": "last"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.8,
+        "word": "lectures"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.0,
+        "word": "at"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.1,
+        "word": "the"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.4,
+        "word": "end"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.5,
+        "word": "of"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.9,
+        "word": "module"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.3,
+        "word": "four"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.6,
+        "word": "number"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 14.1,
+        "word": "four"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.3,
+        "word": "on"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.5,
+        "word": "our"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 15.0,
+        "word": "list"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.1,
+        "word": "of"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "top"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.9,
+        "word": "10"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 16.2,
+        "word": "quantum"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.7,
+        "word": "mechanics"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.8,
+        "word": "you"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 17.1,
+        "word": "encounter"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.6,
+        "word": "are"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.8,
+        "word": "lasers."
+      }
+    ],
+    "length": 18.799999999999997
+  },
+  {
+    "id": 6,
+    "start": 52.3,
+    "end": 54.1,
+    "text": "lasers",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.8,
+        "word": "lasers"
+      }
+    ],
+    "length": 1.8000000000000043
+  },
+  {
+    "id": 7,
+    "start": 54.1,
+    "end": 60.9,
+    "text": " aren't actually an acronym it stands for light amplification by stimulated emission of radiation.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.7,
+        "word": "aren't"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "actually"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "an"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.9,
+        "word": "acronym"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "it"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.6,
+        "word": "stands"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "for"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "light"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "amplification"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.1,
+        "word": "by"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.6,
+        "word": "stimulated"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "emission"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.4,
+        "word": "of"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.8,
+        "word": "radiation."
+      }
+    ],
+    "length": 6.799999999999997
+  },
+  {
+    "id": 8,
+    "start": 60.9,
+    "end": 77.2,
+    "text": "The idea for lasers came from Einstein and another physicist named Bowser who is Indian physicist who discovered in the 1920s that when you have a lot of photons around they can encourage other photons to be admitted at just the right time to all be in sync.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "The"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "idea"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "for"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "lasers"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "came"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "from"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "Einstein"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.9,
+        "word": "and"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "another"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "physicist"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.3,
+        "word": "named"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.8,
+        "word": "Bowser"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "who"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "is"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.7,
+        "word": "Indian"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.1,
+        "word": "physicist"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "who"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.0,
+        "word": "discovered"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.7,
+        "word": "in"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.7,
+        "word": "the"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.6,
+        "word": "1920s"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "that"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "when"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "you"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "have"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.1,
+        "word": "a"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.3,
+        "word": "lot"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.4,
+        "word": "of"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.9,
+        "word": "photons"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.3,
+        "word": "around"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.5,
+        "word": "they"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.6,
+        "word": "can"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 12.1,
+        "word": "encourage"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "other"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.9,
+        "word": "photons"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.1,
+        "word": "to"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "be"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.4,
+        "word": "admitted"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 14.3,
+        "word": "at"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.6,
+        "word": "just"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.7,
+        "word": "the"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 14.9,
+        "word": "right"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.0,
+        "word": "time"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.4,
+        "word": "to"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 15.6,
+        "word": "all"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 15.8,
+        "word": "be"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 15.9,
+        "word": "in"
+      },
+      {
+        "startTime": 15.9,
+        "endTime": 16.3,
+        "word": "sync."
+      }
+    ],
+    "length": 16.300000000000004
+  },
+  {
+    "id": 9,
+    "start": 77.2,
+    "end": 100.1,
+    "text": "This is very similar as an analogy to the wave that you can get created at a football stadium this Photon dance produces a single color narrow beam of light that is the characteristic of a laser now the miniature lasers that we buy in things like laser pointers or in our DVD players are",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "This"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "is"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "very"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "similar"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "as"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "an"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "analogy"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.8,
+        "word": "to"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "the"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.7,
+        "word": "wave"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "that"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "you"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "can"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "get"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.8,
+        "word": "created"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "at"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "a"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "football"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.5,
+        "word": "stadium"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.9,
+        "word": "this"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.5,
+        "word": "Photon"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.9,
+        "word": "dance"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.3,
+        "word": "produces"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "a"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "single"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.2,
+        "word": "color"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.7,
+        "word": "narrow"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.1,
+        "word": "beam"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.3,
+        "word": "of"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.8,
+        "word": "light"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.4,
+        "word": "that"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.6,
+        "word": "is"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.7,
+        "word": "the"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.4,
+        "word": "characteristic"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.5,
+        "word": "of"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.6,
+        "word": "a"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.1,
+        "word": "laser"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.9,
+        "word": "now"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.1,
+        "word": "the"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.5,
+        "word": "miniature"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 15.1,
+        "word": "lasers"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.2,
+        "word": "that"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.5,
+        "word": "we"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.8,
+        "word": "buy"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 17.1,
+        "word": "in"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.4,
+        "word": "things"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.5,
+        "word": "like"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 17.8,
+        "word": "laser"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.1,
+        "word": "pointers"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.8,
+        "word": "or"
+      },
+      {
+        "startTime": 18.8,
+        "endTime": 18.9,
+        "word": "in"
+      },
+      {
+        "startTime": 18.9,
+        "endTime": 19.0,
+        "word": "our"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 20.7,
+        "word": "DVD"
+      },
+      {
+        "startTime": 20.7,
+        "endTime": 21.4,
+        "word": "players"
+      },
+      {
+        "startTime": 21.4,
+        "endTime": 22.9,
+        "word": "are"
+      }
+    ],
+    "length": 22.89999999999999
+  },
+  {
+    "id": 10,
+    "start": 100.1,
+    "end": 123.4,
+    "text": " Actually made out of solid state lasers and that occurred because of a transfer of Technology from gas phase lasers to South State lasers greatly reducing the price on the size of the devices a laser is a completely Quantum to device but we're not going to discuss that phenomena and Detail in this class number 3 on our list is magnets.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.5,
+        "word": "Actually"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "made"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "out"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "of"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "solid"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.8,
+        "word": "state"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.5,
+        "word": "lasers"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "and"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "that"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "occurred"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "because"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.3,
+        "word": "of"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "a"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "transfer"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "of"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "Technology"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.9,
+        "word": "from"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.5,
+        "word": "gas"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "phase"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.3,
+        "word": "lasers"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "to"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "South"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.0,
+        "word": "State"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.4,
+        "word": "lasers"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 10.2,
+        "word": "greatly"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.6,
+        "word": "reducing"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.8,
+        "word": "the"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.1,
+        "word": "price"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.2,
+        "word": "on"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.3,
+        "word": "the"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.6,
+        "word": "size"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.7,
+        "word": "of"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.8,
+        "word": "the"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.3,
+        "word": "devices"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.5,
+        "word": "a"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.1,
+        "word": "laser"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.3,
+        "word": "is"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.4,
+        "word": "a"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 15.0,
+        "word": "completely"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.4,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 15.6,
+        "word": "to"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.2,
+        "word": "device"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.5,
+        "word": "but"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.7,
+        "word": "we're"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.8,
+        "word": "not"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 16.9,
+        "word": "going"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.0,
+        "word": "to"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.3,
+        "word": "discuss"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.6,
+        "word": "that"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.2,
+        "word": "phenomena"
+      },
+      {
+        "startTime": 18.2,
+        "endTime": 18.3,
+        "word": "and"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.8,
+        "word": "Detail"
+      },
+      {
+        "startTime": 18.8,
+        "endTime": 19.2,
+        "word": "in"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 19.6,
+        "word": "this"
+      },
+      {
+        "startTime": 19.6,
+        "endTime": 20.1,
+        "word": "class"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 20.9,
+        "word": "number"
+      },
+      {
+        "startTime": 20.9,
+        "endTime": 21.2,
+        "word": "3"
+      },
+      {
+        "startTime": 21.2,
+        "endTime": 21.3,
+        "word": "on"
+      },
+      {
+        "startTime": 21.3,
+        "endTime": 21.5,
+        "word": "our"
+      },
+      {
+        "startTime": 21.5,
+        "endTime": 21.9,
+        "word": "list"
+      },
+      {
+        "startTime": 21.9,
+        "endTime": 22.3,
+        "word": "is"
+      },
+      {
+        "startTime": 22.3,
+        "endTime": 23.3,
+        "word": "magnets."
+      }
+    ],
+    "length": 23.30000000000001
+  },
+  {
+    "id": 11,
+    "start": 123.4,
+    "end": 133.6,
+    "text": " It's very curious to note that in the 1910s two different physicists independently prove that a permanent magnet magnet cannot exist.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "It's"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "very"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "curious"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "to"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "note"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "that"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "in"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "the"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "1910s"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.1,
+        "word": "two"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.7,
+        "word": "different"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "physicists"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "independently"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "prove"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "that"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "a"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "permanent"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.3,
+        "word": "magnet"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 9.0,
+        "word": "magnet"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.6,
+        "word": "cannot"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.2,
+        "word": "exist."
+      }
+    ],
+    "length": 10.199999999999989
+  },
+  {
+    "id": 12,
+    "start": 133.6,
+    "end": 146.7,
+    "text": " In classical mechanics at a finite temperature, so every time you use a magnet to put a note on the refrigerator or when you use a smart cover for your tablet that's got magnets in it or use a magnetic hard drive on a computer.",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "In"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "classical"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "mechanics"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "at"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "a"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "finite"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "temperature,"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.8,
+        "word": "so"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.2,
+        "word": "every"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "time"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "you"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "use"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "a"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "magnet"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "to"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "put"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "a"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.9,
+        "word": "note"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 6.9,
+        "word": "on"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "the"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.3,
+        "word": "refrigerator"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.1,
+        "word": "or"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "when"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.3,
+        "word": "you"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.5,
+        "word": "use"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.5,
+        "word": "a"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "smart"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.1,
+        "word": "cover"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "for"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.4,
+        "word": "your"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.9,
+        "word": "tablet"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "that's"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.3,
+        "word": "got"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.8,
+        "word": "magnets"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.9,
+        "word": "in"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.0,
+        "word": "it"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.6,
+        "word": "or"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.8,
+        "word": "use"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 11.8,
+        "word": "a"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.1,
+        "word": "magnetic"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "hard"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.8,
+        "word": "drive"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 12.9,
+        "word": "on"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "a"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.1,
+        "word": "computer."
+      }
+    ],
+    "length": 13.099999999999994
+  },
+  {
+    "id": 13,
+    "start": 146.7,
+    "end": 149.2,
+    "text": "You're actually using quantum mechanics.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "You're"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "actually"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "using"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "quantum"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.5,
+        "word": "mechanics."
+      }
+    ],
+    "length": 2.5
+  },
+  {
+    "id": 14,
+    "start": 149.2,
+    "end": 158.4,
+    "text": " The behavior of very small magnets form almost all of the material that we're going to cover in the first two modules of this class.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "The"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "behavior"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.2,
+        "word": "of"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "very"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "small"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.7,
+        "word": "magnets"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.8,
+        "word": "form"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.5,
+        "word": "almost"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "all"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "of"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "the"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "material"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.7,
+        "word": "that"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "we're"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "going"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "to"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "cover"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "in"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.5,
+        "word": "the"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "first"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "two"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.4,
+        "word": "modules"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.6,
+        "word": "of"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.8,
+        "word": "this"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.2,
+        "word": "class."
+      }
+    ],
+    "length": 9.200000000000017
+  },
+  {
+    "id": 15,
+    "start": 158.4,
+    "end": 161.8,
+    "text": "They're going to be spending a lot of time talking about quantum mechanics.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "They're"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "going"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.8,
+        "word": "to"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "be"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "spending"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "a"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "lot"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "of"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "time"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.2,
+        "word": "talking"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "about"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "quantum"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.4,
+        "word": "mechanics."
+      }
+    ],
+    "length": 3.4000000000000057
+  },
+  {
+    "id": 16,
+    "start": 161.8,
+    "end": 173.2,
+    "text": "Number two on our list is super conductors and superconducting magnets at very low temperatures the electrons in most metals.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.8,
+        "word": "Number"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "two"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.8,
+        "word": "on"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "our"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "list"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.1,
+        "word": "is"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "super"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.1,
+        "word": "conductors"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "and"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.3,
+        "word": "superconducting"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "magnets"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.8,
+        "word": "at"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.1,
+        "word": "very"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "low"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.8,
+        "word": "temperatures"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.3,
+        "word": "the"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 10.1,
+        "word": "electrons"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.5,
+        "word": "in"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.9,
+        "word": "most"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.4,
+        "word": "metals."
+      }
+    ],
+    "length": 11.399999999999977
+  },
+  {
+    "id": 17,
+    "start": 173.2,
+    "end": 179.9,
+    "text": " Become friendly with each other in pairs and for makwana state that's called a superconductor.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.6,
+        "word": "Become"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "friendly"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "with"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "each"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "other"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.2,
+        "word": "in"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.9,
+        "word": "pairs"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "and"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "for"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "makwana"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "state"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "that's"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.7,
+        "word": "called"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "a"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.7,
+        "word": "superconductor."
+      }
+    ],
+    "length": 6.700000000000017
+  },
+  {
+    "id": 18,
+    "start": 179.9,
+    "end": 184.8,
+    "text": "And while you probably don't own a superconducting magnet in your home.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "And"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "while"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "you"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "probably"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "don't"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "own"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "a"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.5,
+        "word": "superconducting"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "magnet"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "in"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "your"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.9,
+        "word": "home."
+      }
+    ],
+    "length": 4.900000000000006
+  },
+  {
+    "id": 19,
+    "start": 184.8,
+    "end": 192.7,
+    "text": "If you ever had an MRI nearly all of them employ superconducting magnets in the device itself.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "If"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "you"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.4,
+        "word": "ever"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.0,
+        "word": "had"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "an"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "MRI"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.9,
+        "word": "nearly"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "all"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "of"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "them"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "employ"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.7,
+        "word": "superconducting"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "magnets"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.1,
+        "word": "in"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "the"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.7,
+        "word": "device"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "itself."
+      }
+    ],
+    "length": 7.899999999999977
+  },
+  {
+    "id": 20,
+    "start": 192.7,
+    "end": 208.3,
+    "text": "Now, we're not going to have time to discuss in detail exactly how superconductivity works here, but it is going to lead into our number one Quantum device, which is an extremely Quantum device an MRI machine or magnetic resonance.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.3,
+        "word": "Now,"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "we're"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "not"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "going"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "to"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "have"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "time"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "to"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "discuss"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "in"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.3,
+        "word": "detail"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "exactly"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "how"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.6,
+        "word": "superconductivity"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.2,
+        "word": "works"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.5,
+        "word": "here,"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.4,
+        "word": "but"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.5,
+        "word": "it"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "is"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "going"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "to"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "lead"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "into"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "our"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "number"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "one"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.1,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.6,
+        "word": "device,"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.2,
+        "word": "which"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.4,
+        "word": "is"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "an"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.0,
+        "word": "extremely"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.4,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.9,
+        "word": "device"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.2,
+        "word": "an"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.8,
+        "word": "MRI"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 14.0,
+        "word": "machine"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.7,
+        "word": "or"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 15.1,
+        "word": "magnetic"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.6,
+        "word": "resonance."
+      }
+    ],
+    "length": 15.600000000000023
+  },
+  {
+    "id": 21,
+    "start": 208.3,
+    "end": 217.7,
+    "text": "Imaging machine the MRI machine employs not only a superconducting magnet which uses both superconductivity and magnetism to Quantum things.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "Imaging"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 1.1,
+        "word": "machine"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "the"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "MRI"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "machine"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 3.2,
+        "word": "employs"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "not"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "only"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.5,
+        "word": "a"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.4,
+        "word": "superconducting"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.9,
+        "word": "magnet"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "which"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "uses"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "both"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.1,
+        "word": "superconductivity"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.8,
+        "word": "and"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.3,
+        "word": "magnetism"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "to"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.1,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.4,
+        "word": "things."
+      }
+    ],
+    "length": 9.399999999999977
+  },
+  {
+    "id": 22,
+    "start": 217.7,
+    "end": 224.9,
+    "text": "But it also uses of phenomena called nuclear magnetic resonance actually image of the tissues in reality.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "But"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "it"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "also"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "uses"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "of"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "phenomena"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "called"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "nuclear"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.2,
+        "word": "magnetic"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "resonance"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.9,
+        "word": "actually"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "image"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "of"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "the"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.0,
+        "word": "tissues"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "in"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.2,
+        "word": "reality."
+      }
+    ],
+    "length": 7.200000000000017
+  },
+  {
+    "id": 23,
+    "start": 224.9,
+    "end": 232.9,
+    "text": "It's actually measuring the water density in your body and it comes in as our number one Quantum object that you may encounter in your everyday life.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "It's"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.5,
+        "word": "actually"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "measuring"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "the"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "water"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "density"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "in"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "your"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "body"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "and"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "it"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "comes"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "in"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "as"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "our"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "number"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "one"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.7,
+        "word": "object"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "that"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "you"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "may"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.8,
+        "word": "encounter"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.3,
+        "word": "in"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "your"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "everyday"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "life."
+      }
+    ],
+    "length": 8.0
+  },
+  {
+    "id": 24,
+    "start": 232.9,
+    "end": 234.1,
+    "text": "We're going to just",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "We're"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "going"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "to"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "just"
+      }
+    ],
+    "length": 1.1999999999999886
+  },
+  {
+    "id": 25,
+    "start": 234.1,
+    "end": 241.6,
+    "text": " Driving detail how one of these magnetic resonance imaging devices works at the end of module 2.",
+    "words": [
+      {
+        "startTime": 0.1,
+        "endTime": 0.4,
+        "word": "Driving"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.7,
+        "word": "detail"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.2,
+        "word": "how"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "one"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "of"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "these"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "magnetic"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.1,
+        "word": "resonance"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "imaging"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.1,
+        "word": "devices"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "works"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.4,
+        "word": "at"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.1,
+        "word": "end"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.2,
+        "word": "of"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 7.1,
+        "word": "module"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.5,
+        "word": "2."
+      }
+    ],
+    "length": 7.5
+  },
+  {
+    "id": 26,
+    "start": 241.6,
+    "end": 256.8,
+    "text": "I hope that you've enjoyed this encounter and have been I've been enlightened in all of the different Quantum phenomena that you actually have been surrounded with your entire life, but probably didn't fully realize that it was quantum phenomena.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.2,
+        "word": "I"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "hope"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "that"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "you've"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "enjoyed"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "this"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.2,
+        "word": "encounter"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 4.1,
+        "word": "and"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "have"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "been"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "I've"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "been"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.5,
+        "word": "enlightened"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "in"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "all"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "of"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "the"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.8,
+        "word": "different"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.3,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.1,
+        "word": "phenomena"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "that"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "you"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.6,
+        "word": "actually"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.5,
+        "word": "have"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.7,
+        "word": "been"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "surrounded"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.7,
+        "word": "with"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 11.0,
+        "word": "your"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.4,
+        "word": "entire"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.7,
+        "word": "life,"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "but"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.2,
+        "word": "probably"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.6,
+        "word": "didn't"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.4,
+        "word": "fully"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.7,
+        "word": "realize"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.1,
+        "word": "that"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.2,
+        "word": "it"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.4,
+        "word": "was"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.7,
+        "word": "quantum"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 15.2,
+        "word": "phenomena."
+      }
+    ],
+    "length": 15.200000000000017
+  },
+  {
+    "id": 27,
+    "start": 256.8,
+    "end": 261.2,
+    "text": "And with that this has been Quantum Mechanics for everyone.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "And"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "with"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "that"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "this"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "has"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "been"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.4,
+        "word": "Quantum"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.0,
+        "word": "Mechanics"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.8,
+        "word": "for"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.4,
+        "word": "everyone."
+      }
+    ],
+    "length": 4.399999999999977
+  }
+]

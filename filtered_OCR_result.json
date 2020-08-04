@@ -1,0 +1,86 @@
+[
+  {
+    "start": 90.04, 
+    "end": 110.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 4; Lasers", 
+        "location": [
+          566, 
+          97, 
+          187, 
+          38
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Lasers are an acronym for light amplification by stimulated emission of radiation. Einstein and another physicist named Bose discovered that when you have a lot of photons around, they can encourage other photons to be emitted at just the right time to all be in synch (similar to a wave at a football stadium). This photon d", 
+        "location": [
+          604, 
+          142, 
+          723, 
+          282
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2, 
+          161, 
+          661, 
+          430
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 230.04, 
+    "end": 250.04, 
+    "ocr_result": [
+      {
+        "text": " Top ten list of quantum mechanics you encounter 1; Magnetic resonance imaging The MRI machine, which employs a superconducting magnet and uses nuclear magnetic resonance to image tissues (really water density) in the body, c   ", 
+        "location": [
+          0, 
+          16, 
+          1261, 
+          642
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 11
+  }
+]

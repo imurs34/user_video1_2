@@ -1,0 +1,653 @@
+[
+  {
+    "start": 0, 
+    "end": 30.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter 5: Transistors in computers", 
+        "location": [
+          190, 
+          37, 
+          1011, 
+          121
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          12, 
+          208, 
+          276, 
+          352
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          799, 
+          208, 
+          525, 
+          350
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 30.04, 
+    "end": 50.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter 5: Transistors in computers", 
+        "location": [
+          190, 
+          37, 
+          1011, 
+          121
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Computer chips are made from billions of transistors (the first transistor replica is on the left). A transistor employs quantum tunneling as a switch. It is the mainstay of all digital comput", 
+        "location": [
+          252, 
+          193, 
+          601, 
+          200
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          12, 
+          208, 
+          276, 
+          352
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          799, 
+          208, 
+          525, 
+          350
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Nola AUN CoE eater a lem TT GM ay iors", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 50.04, 
+    "end": 70.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter 5: Transistors in computers", 
+        "location": [
+          190, 
+          37, 
+          1011, 
+          121
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Computer chips are made from billions of transistors (the first transistor replica is on the left). A transistor employs quantum tunneling as a switch. It is the mainstay of all digital computers and all other smart devices. We won't be covering how these work here, but we will discuss something even more bizarre, the quantum computer at the end of Module 4.", 
+        "location": [
+          251, 
+          185, 
+          602, 
+          397
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          12, 
+          208, 
+          276, 
+          352
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          799, 
+          208, 
+          525, 
+          350
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 70.04, 
+    "end": 90.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 4; Lasers", 
+        "location": [
+          566, 
+          97, 
+          187, 
+          38
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Lasers are an acronym for light amplification by stimulated emission of radiatio", 
+        "location": [
+          606, 
+          151, 
+          722, 
+          69
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2, 
+          161, 
+          661, 
+          430
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 90.04, 
+    "end": 110.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 4; Lasers", 
+        "location": [
+          566, 
+          97, 
+          187, 
+          38
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Lasers are an acronym for light amplification by stimulated emission of radiation. Einstein and another physicist named Bose discovered that when you have a lot of photons around, they can encourage other photons to be emitted at just the right time to all be in synch (similar to a wave at a football stadium). This photon d", 
+        "location": [
+          604, 
+          142, 
+          723, 
+          282
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2, 
+          161, 
+          661, 
+          430
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 110.04, 
+    "end": 130.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of | quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 4; Lasers", 
+        "location": [
+          566, 
+          97, 
+          187, 
+          38
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Lasers are an acronym for light amplification by stimulated emission of radiation. Einstein and another physicist named Bose discovered that when you have a lot of photons around, they can encourage other photons to be emitted at just the right time to all be in synch (similar to a wave at a football stadium). This photon dance produces the single color narrow beams of the laser. The miniature lasers we can buy in laser pointers arise from transferring the technology to the solid state. It is a completely quantum device. We won't discuss this phenomena in deta", 
+        "location": [
+          604, 
+          132, 
+          723, 
+          520
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2, 
+          161, 
+          661, 
+          430
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 130.04, 
+    "end": 150.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 4; Lasers", 
+        "location": [
+          566, 
+          97, 
+          187, 
+          38
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Lasers are an acronym for light amplification by stimulated emission of radiation. Einstein and another physicist named Bose discovered that when you have a lot of photons around, they can encourage other photons to be emitted at just the right time to all be in synch (similar to a wave at a football stadium). This photon dance produces the single color narrow beams of the laser. The miniature lasers we can buy in laser pointers arise from transferring the technology to the solid state. It is a completely quantum device. We won't discuss this phenomena in detail here.", 
+        "location": [
+          604, 
+          132, 
+          723, 
+          520
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2, 
+          161, 
+          661, 
+          430
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 150.04, 
+    "end": 170.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 3: Magnets", 
+        "location": [
+          542, 
+          96, 
+          238, 
+          54
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          52, 
+          176, 
+          393, 
+          400
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " In the 1910s, two physicists independently proved that a permanent magnet cannot be described by just classical mechanics. So, every time you use a magnet to put a note on your refrigerator, or you use a", 
+        "location": [
+          420, 
+          221, 
+          856, 
+          158
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Nola Ne EN Saree a lem MT aM a Nios", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 170.04, 
+    "end": 190.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter", 
+        "location": [
+          190, 
+          40, 
+          1011, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 3: Magnets", 
+        "location": [
+          542, 
+          96, 
+          238, 
+          54
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          52, 
+          176, 
+          393, 
+          400
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " In the 1910s, two physicists independently proved that a permanent magnet cannot be described by just classical mechanics. So, every time you use a magnet to put a note on your refrigerator, or you use a smart cover for your tablet with magnets, or a magnetic hard drive, you are using quantum mechanics! The behavior of small magnets will cover most of the first two modules of this class.", 
+        "location": [
+          417, 
+          214, 
+          860, 
+          314
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Nola IN oN Sater a lem TT aM a aN (ors", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 190.04, 
+    "end": 210.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter 2: Superconductors and superconducting magnets", 
+        "location": [
+          181, 
+          37, 
+          1024, 
+          121
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " \u201cAj Ya ", 
+        "location": [
+          9, 
+          168, 
+          560, 
+          438
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " At low temperatures, the electrons in metals befriend each other in pairs and form the quantum state called a superconductor. While you probabl", 
+        "location": [
+          526, 
+          212, 
+          705, 
+          158
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 210.04, 
+    "end": 230.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Top ten list of quantum mechanics you encounter 2: Superconductors and superconducting magnets", 
+        "location": [
+          181, 
+          37, 
+          1024, 
+          121
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " a Ne A Se ", 
+        "location": [
+          9, 
+          168, 
+          560, 
+          438
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " At low temperatures, the electrons in metals befriend each other in pairs and form the quantum state called a superconductor. While you probably don't have a superconducting magnet at your home, if you ever had an MRI, nearly all of them employ superconducting magnets in the instrument. We won't have time to discuss details of superconductivity here.", 
+        "location": [
+          526, 
+          205, 
+          720, 
+          322
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Nola Une EN Saree nem TT GM a (ors", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 230.04, 
+    "end": 250.04, 
+    "ocr_result": [
+      {
+        "text": " Top ten list of quantum mechanics you encounter 1; Magnetic resonance imaging The MRI machine, which employs a superconducting magnet and uses nuclear magnetic resonance to image tissues (really water density) in the body, c   ", 
+        "location": [
+          0, 
+          16, 
+          1261, 
+          642
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 11
+  }, 
+  {
+    "start": 250.04, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": " Top ten list of quantum mechanics you encounter 1: Magnetic resonance imaging The MRI machine, which employs a superconducting magnet and uses nuclear magnetic resonance to image tissues (really water density) in the body, comes in as our number one quantum object in your everyday life. We will describe in detail how these babies work at the end of Module 2.   ", 
+        "location": [
+          0, 
+          16, 
+          1261, 
+          642
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "   UANTUM The Quantum World Around Us MECHANICS Your Everyday Encounters with Physics", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          114
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 12
+  }
+]
